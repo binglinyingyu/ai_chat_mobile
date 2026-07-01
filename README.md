@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24'%3E%3Cpath fill='%23D482B8' d='M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z'/%3E%3Ctext x='7' y='16' font-size='10' fill='%231A0F1F'%3EAI%3C/text%3E%3C/svg%3E" width="64" alt="logo">
-</p>
-
 <h1 align="center">AI Chat</h1>
 
 <p align="center">
